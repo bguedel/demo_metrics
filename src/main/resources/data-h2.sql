@@ -1,0 +1,3 @@
+INSERT into HELLO (ID, NAME) VALUES (1, 'WORLD');
+INSERT into HELLO (ID, NAME) VALUES (2, 'Bill');
+INSERT into HELLO (ID, NAME) VALUES (3, 'Wade');
